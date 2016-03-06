@@ -1,2 +1,3 @@
 # test-repo
-repository for Coursera course
+##repository for Coursera course
+### trying different text format
